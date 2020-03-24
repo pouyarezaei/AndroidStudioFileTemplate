@@ -2,7 +2,7 @@
 /**
  * 
  *     Made By Pouya Rezaei
- *     Github : pouyarezaei
+ *     Github : https://github.com/pouyarezaei
  *     RecyclerView Template Adapter
  *
  */
