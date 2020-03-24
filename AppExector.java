@@ -21,7 +21,7 @@ import java.util.concurrent.Executors;
  * Creating a class like this is a way for android apps to handle non-trivial threading.
  *
  *     Made By Pouya Rezaei
- *     Github : pouyarezaei
+ *     Github : https://github.com/pouyarezaei
  *     RecyclerView Template Adapter
  *
  */
