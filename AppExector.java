@@ -22,7 +22,7 @@ import java.util.concurrent.Executors;
  *
  *     Made By Pouya Rezaei
  *     Github : https://github.com/pouyarezaei
- *     RecyclerView Template Adapter
+ *     
  *
  */
 public class AppExecutors {
