@@ -1,4 +1,6 @@
-package com.pouyarezaei.backgroundgallery
+#if (${PACKAGE_NAME} && ${PACKAGE_NAME} != "")package ${PACKAGE_NAME};
+
+#end
 
 import android.os.Handler
 import android.os.Looper
