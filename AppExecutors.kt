@@ -21,7 +21,7 @@ import java.util.concurrent.Executors
  *
  * Made By Pouya Rezaei
  * Github : pouyarezaei
- * RecyclerView Template Adapter
+ * 
  */
 class AppExecutors private constructor(
     private val diskIO: ExecutorService,
